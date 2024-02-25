@@ -1,0 +1,79 @@
+[admin.py:29] - 2024-02-25 20:44:00,420 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,827 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,828 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,828 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,829 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,829 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,829 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,830 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,830 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,831 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,831 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,832 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,832 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,832 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,832 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,833 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,833 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,833 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,833 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,833 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,834 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,834 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,834 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,834 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-02-25 20:44:00,835 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1055] - 2024-02-25 20:48:18,781 - DEBUG - Starting new HTTPS connection (1): discordapp.com:443
+[connectionpool.py:549] - 2024-02-25 20:48:19,104 - DEBUG - https://discordapp.com:443 "GET /api/webhooks/1211384017614540900/Mhq6zwqaqZdfkC98b98qE2vh53K_j1wuIzBzysC2cjWuMbUVe-vwKdLLpK8mNnprMAxd HTTP/1.1" 200 None
+[builder.pyw:420] - 2024-02-25 20:49:45,563 - INFO - Retrieved filename: sleeper08_Place
+[builder.pyw:389] - 2024-02-25 20:49:45,564 - INFO - Changed filetype: File Options
+[builder.pyw:389] - 2024-02-25 20:49:45,564 - INFO - Changed filetype: File Options
+[builder.pyw:420] - 2024-02-25 20:50:07,643 - INFO - Retrieved filename: sleeper08_Place
+[builder.pyw:389] - 2024-02-25 20:50:07,643 - INFO - Changed filetype: File Options
+[builder.pyw:389] - 2024-02-25 20:50:07,644 - INFO - Changed filetype: File Options
+[builder.pyw:420] - 2024-02-25 20:50:31,307 - INFO - Retrieved filename: sleeper08_Place
+[builder.pyw:389] - 2024-02-25 20:50:31,307 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2024-02-25 20:50:31,308 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2024-02-25 20:50:31,310 - INFO - Successfully changed config
+[builder.pyw:522] - 2024-02-25 20:50:31,751 - INFO - Successfully obfuscated file: sleeper08_Place.py
+[builder.pyw:486] - 2024-02-25 20:52:04,825 - INFO - Successfully compiled sleeper08_Place.exe with pyinstaller
+[builder.pyw:451] - 2024-02-25 20:52:15,480 - INFO - Successfully pumped file: sleeper08_Place.exe
+[builder.pyw:498] - 2024-02-25 20:52:15,508 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2024-02-25 20:52:15,510 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:507] - 2024-02-25 20:52:15,511 - INFO - Successfully removed file: ./sleeper08_Place.py
+[builder.pyw:507] - 2024-02-25 20:52:15,512 - INFO - Successfully removed file: ./sleeper08_Place.spec
+[admin.py:29] - 2024-02-25 21:03:57,346 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,854 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,855 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,855 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,856 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,856 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,856 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,857 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,857 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,857 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,858 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,858 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,858 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,859 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,859 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,859 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,860 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,860 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,860 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,860 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,861 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,861 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,861 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,862 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:191] - 2024-02-25 21:03:57,862 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:420] - 2024-02-25 21:04:49,426 - INFO - Retrieved filename: sleeeper008_Place
+[builder.pyw:389] - 2024-02-25 21:04:49,426 - INFO - Changed filetype: pyinstaller
+[builder.pyw:389] - 2024-02-25 21:04:49,427 - INFO - Changed filetype: pyinstaller
+[builder.pyw:440] - 2024-02-25 21:04:49,431 - INFO - Successfully changed config
+[builder.pyw:486] - 2024-02-25 21:06:45,598 - INFO - Successfully compiled sleeeper008_Place.exe with pyinstaller
+[builder.pyw:451] - 2024-02-25 21:06:48,224 - INFO - Successfully pumped file: sleeeper008_Place.exe
+[builder.pyw:498] - 2024-02-25 21:06:48,246 - INFO - Successfully removed directory: ./build
+[builder.pyw:507] - 2024-02-25 21:06:48,247 - INFO - Successfully removed file: ./sleeeper008_Place.py
+[builder.pyw:507] - 2024-02-25 21:06:48,248 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:507] - 2024-02-25 21:06:48,249 - INFO - Successfully removed file: ./sleeeper008_Place.spec
